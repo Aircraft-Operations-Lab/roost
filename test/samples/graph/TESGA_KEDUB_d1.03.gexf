@@ -1,0 +1,2475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-04-18">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="distance_nm" type="float" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="lat" type="double" />
+      <attribute id="1" title="lon" type="double" />
+      <attribute id="2" title="comment" type="string" />
+    </attributes>
+    <nodes>
+      <node id="ROLKA" label="ROLKA">
+        <attvalues>
+          <attvalue for="0" value="50.4041666666667" />
+          <attvalue for="1" value="23.825555555555603" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="DORER" label="DORER">
+        <attvalues>
+          <attvalue for="0" value="50.4658333333333" />
+          <attvalue for="1" value="27.2077777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TESGA" label="TESGA">
+        <attvalues>
+          <attvalue for="0" value="50.445" />
+          <attvalue for="1" value="8.61888888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SOGMI" label="SOGMI">
+        <attvalues>
+          <attvalue for="0" value="50.5275" />
+          <attvalue for="1" value="8.89916666666667" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="MASEK" label="MASEK">
+        <attvalues>
+          <attvalue for="0" value="50.7291666666667" />
+          <attvalue for="1" value="9.598333333333333" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ROBEL" label="ROBEL">
+        <attvalues>
+          <attvalue for="0" value="50.8975" />
+          <attvalue for="1" value="10.435" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="LASTO" label="LASTO">
+        <attvalues>
+          <attvalue for="0" value="51.1288888888889" />
+          <attvalue for="1" value="11.1105555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SOPLA" label="SOPLA">
+        <attvalues>
+          <attvalue for="0" value="51.27722222222221" />
+          <attvalue for="1" value="11.553055555555598" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="NOTGO" label="NOTGO">
+        <attvalues>
+          <attvalue for="0" value="51.2105555555556" />
+          <attvalue for="1" value="11.9466666666667" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SULED" label="SULED">
+        <attvalues>
+          <attvalue for="0" value="51.1619444444444" />
+          <attvalue for="1" value="12.23" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TALEG" label="TALEG">
+        <attvalues>
+          <attvalue for="0" value="51.0927777777778" />
+          <attvalue for="1" value="12.6197222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="EKPEK" label="EKPEK">
+        <attvalues>
+          <attvalue for="0" value="50.9644444444444" />
+          <attvalue for="1" value="13.3213888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BESIP" label="BESIP">
+        <attvalues>
+          <attvalue for="0" value="50.9352777777778" />
+          <attvalue for="1" value="13.4852777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="RIKLU" label="RIKLU">
+        <attvalues>
+          <attvalue for="0" value="50.9311111111111" />
+          <attvalue for="1" value="13.8111111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="HDO" label="HDO">
+        <attvalues>
+          <attvalue for="0" value="50.9280555555556" />
+          <attvalue for="1" value="14.3688888888889" />
+          <attvalue for="2" value="HERMSDORF" />
+        </attvalues>
+      </node>
+      <node id="OKX" label="OKX">
+        <attvalues>
+          <attvalue for="0" value="50.90277777777779" />
+          <attvalue for="1" value="15.0319444444444" />
+          <attvalue for="2" value="FRYDLANT" />
+        </attvalues>
+      </node>
+      <node id="TOMTI" label="TOMTI">
+        <attvalues>
+          <attvalue for="0" value="50.9530555555556" />
+          <attvalue for="1" value="15.2933333333333" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="VAMPU" label="VAMPU">
+        <attvalues>
+          <attvalue for="0" value="51.8658333333333" />
+          <attvalue for="1" value="19.125" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="POLON" label="POLON">
+        <attvalues>
+          <attvalue for="0" value="51.8" />
+          <attvalue for="1" value="19.6561111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="OMAVA" label="OMAVA">
+        <attvalues>
+          <attvalue for="0" value="51.3838888888889" />
+          <attvalue for="1" value="21.6880555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="VENES" label="VENES">
+        <attvalues>
+          <attvalue for="0" value="51.148888888888905" />
+          <attvalue for="1" value="21.9105555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="NATEV" label="NATEV">
+        <attvalues>
+          <attvalue for="0" value="50.8688888888889" />
+          <attvalue for="1" value="22.171111111111102" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="LAPVA" label="LAPVA">
+        <attvalues>
+          <attvalue for="0" value="50.4563888888889" />
+          <attvalue for="1" value="28.6925" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KEDUB" label="KEDUB">
+        <attvalues>
+          <attvalue for="0" value="50.4016666666667" />
+          <attvalue for="1" value="30.4516666666667" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="*SLV" label="*SLV">
+        <attvalues>
+          <attvalue for="0" value="50.1869444444444" />
+          <attvalue for="1" value="29.5702777777778" />
+          <attvalue for="2" value="SOLOVIIVKA" />
+        </attvalues>
+      </node>
+      <node id="SOMOX" label="SOMOX">
+        <attvalues>
+          <attvalue for="0" value="51.4680555555556" />
+          <attvalue for="1" value="22.443055555555603" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TOLPA" label="TOLPA">
+        <attvalues>
+          <attvalue for="0" value="51.3027777777778" />
+          <attvalue for="1" value="23.6458333333333" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="OKROT" label="OKROT">
+        <attvalues>
+          <attvalue for="0" value="50.7069444444444" />
+          <attvalue for="1" value="27.348888888888897" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ADBAN" label="ADBAN">
+        <attvalues>
+          <attvalue for="0" value="49.802222222222206" />
+          <attvalue for="1" value="25.3911111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="PEPIL" label="PEPIL">
+        <attvalues>
+          <attvalue for="0" value="49.8" />
+          <attvalue for="1" value="25.700555555555603" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BIBTA" label="BIBTA">
+        <attvalues>
+          <attvalue for="0" value="50.2669444444444" />
+          <attvalue for="1" value="8.896944444444449" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ETOLU" label="ETOLU">
+        <attvalues>
+          <attvalue for="0" value="50.1811111111111" />
+          <attvalue for="1" value="9.28861111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="OSBIT" label="OSBIT">
+        <attvalues>
+          <attvalue for="0" value="50.07" />
+          <attvalue for="1" value="9.78305555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="RASPU" label="RASPU">
+        <attvalues>
+          <attvalue for="0" value="50.072777777777794" />
+          <attvalue for="1" value="10.0986111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KOMIB" label="KOMIB">
+        <attvalues>
+          <attvalue for="0" value="50.0733333333333" />
+          <attvalue for="1" value="10.2427777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SULUS" label="SULUS">
+        <attvalues>
+          <attvalue for="0" value="50.0752777777778" />
+          <attvalue for="1" value="10.7288888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="LONLI" label="LONLI">
+        <attvalues>
+          <attvalue for="0" value="50.074722222222206" />
+          <attvalue for="1" value="11.2263888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KULOK" label="KULOK">
+        <attvalues>
+          <attvalue for="0" value="50.072777777777794" />
+          <attvalue for="1" value="11.6305555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ABERU" label="ABERU">
+        <attvalues>
+          <attvalue for="0" value="50.069166666666696" />
+          <attvalue for="1" value="12.0936111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="OKG" label="OKG">
+        <attvalues>
+          <attvalue for="0" value="50.065277777777794" />
+          <attvalue for="1" value="12.405833333333302" />
+          <attvalue for="2" value="CHEB" />
+        </attvalues>
+      </node>
+      <node id="DONAD" label="DONAD">
+        <attvalues>
+          <attvalue for="0" value="50.0808333333333" />
+          <attvalue for="1" value="13.0" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="DOPOV" label="DOPOV">
+        <attvalues>
+          <attvalue for="0" value="50.0808333333333" />
+          <attvalue for="1" value="13.125" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="RAK" label="RAK">
+        <attvalues>
+          <attvalue for="0" value="50.0969444444444" />
+          <attvalue for="1" value="13.690833333333302" />
+          <attvalue for="2" value="RAKOVNIC" />
+        </attvalues>
+      </node>
+      <node id="LETNA" label="LETNA">
+        <attvalues>
+          <attvalue for="0" value="50.0919444444444" />
+          <attvalue for="1" value="14.4222222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BEKVI" label="BEKVI">
+        <attvalues>
+          <attvalue for="0" value="50.0733333333333" />
+          <attvalue for="1" value="14.7222222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="PEMUR" label="PEMUR">
+        <attvalues>
+          <attvalue for="0" value="50.0547222222222" />
+          <attvalue for="1" value="15.538333333333302" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="DOBIL" label="DOBIL">
+        <attvalues>
+          <attvalue for="0" value="50.038611111111095" />
+          <attvalue for="1" value="15.9375" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ETUDA" label="ETUDA">
+        <attvalues>
+          <attvalue for="0" value="50.0133333333333" />
+          <attvalue for="1" value="16.5072222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SOPAV" label="SOPAV">
+        <attvalues>
+          <attvalue for="0" value="49.9308333333333" />
+          <attvalue for="1" value="18.0525" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="PADKA" label="PADKA">
+        <attvalues>
+          <attvalue for="0" value="49.9338888888889" />
+          <attvalue for="1" value="18.283333333333303" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="USALO" label="USALO">
+        <attvalues>
+          <attvalue for="0" value="49.940277777777794" />
+          <attvalue for="1" value="19.0647222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SKAVI" label="SKAVI">
+        <attvalues>
+          <attvalue for="0" value="49.940277777777794" />
+          <attvalue for="1" value="19.9" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="GEVNA" label="GEVNA">
+        <attvalues>
+          <attvalue for="0" value="49.935" />
+          <attvalue for="1" value="20.7247222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="LUXAR" label="LUXAR">
+        <attvalues>
+          <attvalue for="0" value="49.93" />
+          <attvalue for="1" value="21.1752777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="DIBED" label="DIBED">
+        <attvalues>
+          <attvalue for="0" value="49.8883333333333" />
+          <attvalue for="1" value="23.0583333333333" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SORON" label="SORON">
+        <attvalues>
+          <attvalue for="0" value="49.7616666666667" />
+          <attvalue for="1" value="27.85" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="RIVSA" label="RIVSA">
+        <attvalues>
+          <attvalue for="0" value="51.108611111111095" />
+          <attvalue for="1" value="13.3666666666667" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="DRN" label="DRN">
+        <attvalues>
+          <attvalue for="0" value="51.0155555555556" />
+          <attvalue for="1" value="13.5988888888889" />
+          <attvalue for="2" value="DRESDEN" />
+        </attvalues>
+      </node>
+      <node id="DOBUR" label="DOBUR">
+        <attvalues>
+          <attvalue for="0" value="51.6980555555556" />
+          <attvalue for="1" value="13.535" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="PEPOL" label="PEPOL">
+        <attvalues>
+          <attvalue for="0" value="52.1261111111111" />
+          <attvalue for="1" value="13.6825" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ERSIL" label="ERSIL">
+        <attvalues>
+          <attvalue for="0" value="51.0505555555556" />
+          <attvalue for="1" value="10.2866666666667" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="MAXOT" label="MAXOT">
+        <attvalues>
+          <attvalue for="0" value="51.1475" />
+          <attvalue for="1" value="10.6316666666667" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ESOBU" label="ESOBU">
+        <attvalues>
+          <attvalue for="0" value="51.183055555555605" />
+          <attvalue for="1" value="10.7591666666667" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="MITRU" label="MITRU">
+        <attvalues>
+          <attvalue for="0" value="51.2938888888889" />
+          <attvalue for="1" value="11.1619444444444" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="IXUVU" label="IXUVU">
+        <attvalues>
+          <attvalue for="0" value="51.3238888888889" />
+          <attvalue for="1" value="11.2722222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="GALMA" label="GALMA">
+        <attvalues>
+          <attvalue for="0" value="51.3980555555556" />
+          <attvalue for="1" value="11.4511111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="DESAR" label="DESAR">
+        <attvalues>
+          <attvalue for="0" value="51.64" />
+          <attvalue for="1" value="12.0427777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="LORBO" label="LORBO">
+        <attvalues>
+          <attvalue for="0" value="51.6894444444444" />
+          <attvalue for="1" value="12.205" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="MOSEX" label="MOSEX">
+        <attvalues>
+          <attvalue for="0" value="51.9191666666667" />
+          <attvalue for="1" value="12.9708333333333" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BOLBO" label="BOLBO">
+        <attvalues>
+          <attvalue for="0" value="51.794722222222205" />
+          <attvalue for="1" value="13.1511111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="OBANI" label="OBANI">
+        <attvalues>
+          <attvalue for="0" value="52.245555555555605" />
+          <attvalue for="1" value="14.1030555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SUBIX" label="SUBIX">
+        <attvalues>
+          <attvalue for="0" value="52.379722222222206" />
+          <attvalue for="1" value="14.5855555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KELOD" label="KELOD">
+        <attvalues>
+          <attvalue for="0" value="52.233888888888906" />
+          <attvalue for="1" value="15.8833333333333" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ADVAB" label="ADVAB">
+        <attvalues>
+          <attvalue for="0" value="52.1305555555556" />
+          <attvalue for="1" value="16.7272222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="INDIG" label="INDIG">
+        <attvalues>
+          <attvalue for="0" value="51.9966666666667" />
+          <attvalue for="1" value="18.0" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KOBUS" label="KOBUS">
+        <attvalues>
+          <attvalue for="0" value="51.5133333333333" />
+          <attvalue for="1" value="14.2525" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="LASIS" label="LASIS">
+        <attvalues>
+          <attvalue for="0" value="51.4069444444444" />
+          <attvalue for="1" value="14.961666666666698" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="VELAB" label="VELAB">
+        <attvalues>
+          <attvalue for="0" value="51.4697222222222" />
+          <attvalue for="1" value="16.7488888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="MISKA" label="MISKA">
+        <attvalues>
+          <attvalue for="0" value="51.1858333333333" />
+          <attvalue for="1" value="16.934444444444402" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="OKENO" label="OKENO">
+        <attvalues>
+          <attvalue for="0" value="51.56972222222221" />
+          <attvalue for="1" value="18.5938888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="VAKNU" label="VAKNU">
+        <attvalues>
+          <attvalue for="0" value="50.4741666666667" />
+          <attvalue for="1" value="19.1502777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KOTEK" label="KOTEK">
+        <attvalues>
+          <attvalue for="0" value="50.64722222222221" />
+          <attvalue for="1" value="20.2511111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="HLV" label="HLV">
+        <attvalues>
+          <attvalue for="0" value="49.322777777777794" />
+          <attvalue for="1" value="17.5283333333333" />
+          <attvalue for="2" value="HOLESOV" />
+        </attvalues>
+      </node>
+      <node id="TUSIN" label="TUSIN">
+        <attvalues>
+          <attvalue for="0" value="49.8475" />
+          <attvalue for="1" value="18.5727777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TAMEB" label="TAMEB">
+        <attvalues>
+          <attvalue for="0" value="50.807777777777794" />
+          <attvalue for="1" value="10.73" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BAMKI" label="BAMKI">
+        <attvalues>
+          <attvalue for="0" value="50.7180555555556" />
+          <attvalue for="1" value="11.0202777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="NARUS" label="NARUS">
+        <attvalues>
+          <attvalue for="0" value="50.6683333333333" />
+          <attvalue for="1" value="11.1816666666667" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TABAT" label="TABAT">
+        <attvalues>
+          <attvalue for="0" value="50.5586111111111" />
+          <attvalue for="1" value="11.5313888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SODRO" label="SODRO">
+        <attvalues>
+          <attvalue for="0" value="50.46472222222221" />
+          <attvalue for="1" value="11.8272222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="PEROX" label="PEROX">
+        <attvalues>
+          <attvalue for="0" value="50.3447222222222" />
+          <attvalue for="1" value="12.1994444444444" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SOPGA" label="SOPGA">
+        <attvalues>
+          <attvalue for="0" value="50.1769444444444" />
+          <attvalue for="1" value="12.7186111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="NENAN" label="NENAN">
+        <attvalues>
+          <attvalue for="0" value="50.8441666666667" />
+          <attvalue for="1" value="11.1372222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ERF" label="ERF">
+        <attvalues>
+          <attvalue for="0" value="50.9508333333333" />
+          <attvalue for="1" value="11.236666666666698" />
+          <attvalue for="2" value="ERFURT" />
+        </attvalues>
+      </node>
+      <node id="WEMAR" label="WEMAR">
+        <attvalues>
+          <attvalue for="0" value="50.9830555555556" />
+          <attvalue for="1" value="11.2519444444444" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ALOSO" label="ALOSO">
+        <attvalues>
+          <attvalue for="0" value="50.7075" />
+          <attvalue for="1" value="11.701666666666698" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="GOLAT" label="GOLAT">
+        <attvalues>
+          <attvalue for="0" value="50.912222222222205" />
+          <attvalue for="1" value="11.938055555555598" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="URONA" label="URONA">
+        <attvalues>
+          <attvalue for="0" value="50.2477777777778" />
+          <attvalue for="1" value="11.9738888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ELMEK" label="ELMEK">
+        <attvalues>
+          <attvalue for="0" value="49.9038888888889" />
+          <attvalue for="1" value="14.03" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="VLM" label="VLM">
+        <attvalues>
+          <attvalue for="0" value="49.7041666666667" />
+          <attvalue for="1" value="15.066666666666698" />
+          <attvalue for="2" value="VLASIM" />
+        </attvalues>
+      </node>
+      <node id="OSNEK" label="OSNEK">
+        <attvalues>
+          <attvalue for="0" value="49.5133333333333" />
+          <attvalue for="1" value="15.6380555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BODAL" label="BODAL">
+        <attvalues>
+          <attvalue for="0" value="49.4641666666667" />
+          <attvalue for="1" value="15.7827777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TBV" label="TBV">
+        <attvalues>
+          <attvalue for="0" value="49.7958333333333" />
+          <attvalue for="1" value="16.6788888888889" />
+          <attvalue for="2" value="TREBOVA" />
+        </attvalues>
+      </node>
+      <node id="BNO" label="BNO">
+        <attvalues>
+          <attvalue for="0" value="49.15" />
+          <attvalue for="1" value="16.6925" />
+          <attvalue for="2" value="BNO" />
+        </attvalues>
+      </node>
+      <node id="ESATI" label="ESATI">
+        <attvalues>
+          <attvalue for="0" value="50.0630555555556" />
+          <attvalue for="1" value="9.19" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="LOHRE" label="LOHRE">
+        <attvalues>
+          <attvalue for="0" value="50.0669444444444" />
+          <attvalue for="1" value="9.486388888888891" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="EKSOS" label="EKSOS">
+        <attvalues>
+          <attvalue for="0" value="49.6541666666667" />
+          <attvalue for="1" value="11.4075" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ANELA" label="ANELA">
+        <attvalues>
+          <attvalue for="0" value="49.7688888888889" />
+          <attvalue for="1" value="11.2247222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BARSU" label="BARSU">
+        <attvalues>
+          <attvalue for="0" value="49.921666666666695" />
+          <attvalue for="1" value="10.3894444444444" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KEPOM" label="KEPOM">
+        <attvalues>
+          <attvalue for="0" value="49.808055555555605" />
+          <attvalue for="1" value="11.3827777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="NIBIL" label="NIBIL">
+        <attvalues>
+          <attvalue for="0" value="49.8505555555556" />
+          <attvalue for="1" value="11.5436111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="NOGRA" label="NOGRA">
+        <attvalues>
+          <attvalue for="0" value="49.881666666666696" />
+          <attvalue for="1" value="11.6763888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="RONIG" label="RONIG">
+        <attvalues>
+          <attvalue for="0" value="49.94611111111109" />
+          <attvalue for="1" value="11.9325" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BAMAS" label="BAMAS">
+        <attvalues>
+          <attvalue for="0" value="49.88" />
+          <attvalue for="1" value="11.045833333333302" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BOREP" label="BOREP">
+        <attvalues>
+          <attvalue for="0" value="49.9658333333333" />
+          <attvalue for="1" value="10.6277777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TONSU" label="TONSU">
+        <attvalues>
+          <attvalue for="0" value="49.9697222222222" />
+          <attvalue for="1" value="11.225833333333302" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ERETO" label="ERETO">
+        <attvalues>
+          <attvalue for="0" value="49.9311111111111" />
+          <attvalue for="1" value="11.4083333333333" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="GORKO" label="GORKO">
+        <attvalues>
+          <attvalue for="0" value="50.2244444444444" />
+          <attvalue for="1" value="10.4838888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="GUDOM" label="GUDOM">
+        <attvalues>
+          <attvalue for="0" value="50.193611111111096" />
+          <attvalue for="1" value="10.4047222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BOKNI" label="BOKNI">
+        <attvalues>
+          <attvalue for="0" value="50.3408333333333" />
+          <attvalue for="1" value="10.6088888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KODUK" label="KODUK">
+        <attvalues>
+          <attvalue for="0" value="50.197777777777794" />
+          <attvalue for="1" value="10.9422222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SOPOX" label="SOPOX">
+        <attvalues>
+          <attvalue for="0" value="50.7516666666667" />
+          <attvalue for="1" value="9.43333333333333" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ERDOK" label="ERDOK">
+        <attvalues>
+          <attvalue for="0" value="50.888611111111096" />
+          <attvalue for="1" value="10.0313888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="MAGES" label="MAGES">
+        <attvalues>
+          <attvalue for="0" value="50.8463888888889" />
+          <attvalue for="1" value="10.0763888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TUSOS" label="TUSOS">
+        <attvalues>
+          <attvalue for="0" value="50.3688888888889" />
+          <attvalue for="1" value="10.1561111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ADIBA" label="ADIBA">
+        <attvalues>
+          <attvalue for="0" value="50.5516666666667" />
+          <attvalue for="1" value="10.3877777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="VELIS" label="VELIS">
+        <attvalues>
+          <attvalue for="0" value="50.4691666666667" />
+          <attvalue for="1" value="10.4747222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="NUDRO" label="NUDRO">
+        <attvalues>
+          <attvalue for="0" value="51.1652777777778" />
+          <attvalue for="1" value="17.3255555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SABAB" label="SABAB">
+        <attvalues>
+          <attvalue for="0" value="50.77027777777779" />
+          <attvalue for="1" value="17.899166666666698" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="OSKAT" label="OSKAT">
+        <attvalues>
+          <attvalue for="0" value="51.4144444444444" />
+          <attvalue for="1" value="11.9694444444444" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TADUV" label="TADUV">
+        <attvalues>
+          <attvalue for="0" value="51.43" />
+          <attvalue for="1" value="12.5480555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BEBEX" label="BEBEX">
+        <attvalues>
+          <attvalue for="0" value="51.3536111111111" />
+          <attvalue for="1" value="13.194166666666698" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="RENDO" label="RENDO">
+        <attvalues>
+          <attvalue for="0" value="51.2780555555556" />
+          <attvalue for="1" value="13.8847222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="EKSEK" label="EKSEK">
+        <attvalues>
+          <attvalue for="0" value="51.1283333333333" />
+          <attvalue for="1" value="15.610833333333302" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ULGIL" label="ULGIL">
+        <attvalues>
+          <attvalue for="0" value="51.0986111111111" />
+          <attvalue for="1" value="16.02" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="VAGON" label="VAGON">
+        <attvalues>
+          <attvalue for="0" value="51.308055555555605" />
+          <attvalue for="1" value="17.114444444444402" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SUDOL" label="SUDOL">
+        <attvalues>
+          <attvalue for="0" value="50.6533333333333" />
+          <attvalue for="1" value="18.411666666666697" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SUVUT" label="SUVUT">
+        <attvalues>
+          <attvalue for="0" value="51.29277777777779" />
+          <attvalue for="1" value="11.4613888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TORPU" label="TORPU">
+        <attvalues>
+          <attvalue for="0" value="51.1708333333333" />
+          <attvalue for="1" value="13.2105555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="PIKIB" label="PIKIB">
+        <attvalues>
+          <attvalue for="0" value="50.8933333333333" />
+          <attvalue for="1" value="13.709166666666698" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="GOLOP" label="GOLOP">
+        <attvalues>
+          <attvalue for="0" value="50.585833333333305" />
+          <attvalue for="1" value="14.495833333333302" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ARTUP" label="ARTUP">
+        <attvalues>
+          <attvalue for="0" value="50.6852777777778" />
+          <attvalue for="1" value="14.905" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="LAGAR" label="LAGAR">
+        <attvalues>
+          <attvalue for="0" value="50.7952777777778" />
+          <attvalue for="1" value="15.3672222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="OMELO" label="OMELO">
+        <attvalues>
+          <attvalue for="0" value="50.8377777777778" />
+          <attvalue for="1" value="14.000833333333302" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KOMUR" label="KOMUR">
+        <attvalues>
+          <attvalue for="0" value="50.5622222222222" />
+          <attvalue for="1" value="14.5816666666667" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KOPIT" label="KOPIT">
+        <attvalues>
+          <attvalue for="0" value="50.1883333333333" />
+          <attvalue for="1" value="15.1580555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="RAVKU" label="RAVKU">
+        <attvalues>
+          <attvalue for="0" value="50.7669444444444" />
+          <attvalue for="1" value="14.4288888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ASTEL" label="ASTEL">
+        <attvalues>
+          <attvalue for="0" value="50.8644444444444" />
+          <attvalue for="1" value="14.8605555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="LEMBI" label="LEMBI">
+        <attvalues>
+          <attvalue for="0" value="50.5508333333333" />
+          <attvalue for="1" value="14.8813888888889" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="DOKEL" label="DOKEL">
+        <attvalues>
+          <attvalue for="0" value="50.6275" />
+          <attvalue for="1" value="14.8225" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BULEK" label="BULEK">
+        <attvalues>
+          <attvalue for="0" value="50.4133333333333" />
+          <attvalue for="1" value="15.0652777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KONAR" label="KONAR">
+        <attvalues>
+          <attvalue for="0" value="50.4452777777778" />
+          <attvalue for="1" value="13.0655555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="NAKER" label="NAKER">
+        <attvalues>
+          <attvalue for="0" value="51.4969444444444" />
+          <attvalue for="1" value="21.5802777777778" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="USTIL" label="USTIL">
+        <attvalues>
+          <attvalue for="0" value="50.8333333333333" />
+          <attvalue for="1" value="24.1" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="VABOD" label="VABOD">
+        <attvalues>
+          <attvalue for="0" value="50.7583333333333" />
+          <attvalue for="1" value="24.795" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SUMAM" label="SUMAM">
+        <attvalues>
+          <attvalue for="0" value="51.6105555555556" />
+          <attvalue for="1" value="22.040833333333303" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="GORKU" label="GORKU">
+        <attvalues>
+          <attvalue for="0" value="49.60527777777779" />
+          <attvalue for="1" value="25.0722222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="NALAD" label="NALAD">
+        <attvalues>
+          <attvalue for="0" value="49.3883333333333" />
+          <attvalue for="1" value="26.4516666666667" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BAROB" label="BAROB">
+        <attvalues>
+          <attvalue for="0" value="49.95722222222221" />
+          <attvalue for="1" value="11.6172222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ELPON" label="ELPON">
+        <attvalues>
+          <attvalue for="0" value="49.925" />
+          <attvalue for="1" value="14.6172222222222" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="TIPRU" label="TIPRU">
+        <attvalues>
+          <attvalue for="0" value="49.8416666666667" />
+          <attvalue for="1" value="14.788055555555598" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="BUSIR" label="BUSIR">
+        <attvalues>
+          <attvalue for="0" value="51.1208333333333" />
+          <attvalue for="1" value="14.3308333333333" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ESLOR" label="ESLOR">
+        <attvalues>
+          <attvalue for="0" value="51.0658333333333" />
+          <attvalue for="1" value="14.1794444444444" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ODLIV" label="ODLIV">
+        <attvalues>
+          <attvalue for="0" value="50.6702777777778" />
+          <attvalue for="1" value="14.464444444444402" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="KENIG" label="KENIG">
+        <attvalues>
+          <attvalue for="0" value="51.6194444444444" />
+          <attvalue for="1" value="11.2644444444444" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="SWALM" label="SWALM">
+        <attvalues>
+          <attvalue for="0" value="50.717222222222205" />
+          <attvalue for="1" value="9.20555555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="FULNO" label="FULNO">
+        <attvalues>
+          <attvalue for="0" value="50.872222222222206" />
+          <attvalue for="1" value="9.701388888888893" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="ERSET" label="ERSET">
+        <attvalues>
+          <attvalue for="0" value="50.9525" />
+          <attvalue for="1" value="9.96305555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="DIMEX" label="DIMEX">
+        <attvalues>
+          <attvalue for="0" value="51.6305555555556" />
+          <attvalue for="1" value="16.1286111111111" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="GAPLA" label="GAPLA">
+        <attvalues>
+          <attvalue for="0" value="50.6538888888889" />
+          <attvalue for="1" value="10.2805555555556" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+      <node id="RITUP" label="RITUP">
+        <attvalues>
+          <attvalue for="0" value="50.1891666666667" />
+          <attvalue for="1" value="10.03" />
+          <attvalue for="2" value="_" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="ROLKA" target="DORER" id="0">
+        <attvalues>
+          <attvalue for="3" value="129.38798101007222" />
+        </attvalues>
+      </edge>
+      <edge source="DORER" target="LAPVA" id="1">
+        <attvalues>
+          <attvalue for="3" value="56.750738346660576" />
+        </attvalues>
+      </edge>
+      <edge source="TESGA" target="SOGMI" id="2">
+        <attvalues>
+          <attvalue for="3" value="11.79729207149008" />
+        </attvalues>
+      </edge>
+      <edge source="TESGA" target="BIBTA" id="3">
+        <attvalues>
+          <attvalue for="3" value="15.091039427021334" />
+        </attvalues>
+      </edge>
+      <edge source="TESGA" target="ESATI" id="4">
+        <attvalues>
+          <attvalue for="3" value="31.72614035148948" />
+        </attvalues>
+      </edge>
+      <edge source="SOGMI" target="MASEK" id="5">
+        <attvalues>
+          <attvalue for="3" value="29.25225082530751" />
+        </attvalues>
+      </edge>
+      <edge source="SOGMI" target="SWALM" id="6">
+        <attvalues>
+          <attvalue for="3" value="16.308321831096507" />
+        </attvalues>
+      </edge>
+      <edge source="MASEK" target="ROBEL" id="7">
+        <attvalues>
+          <attvalue for="3" value="33.31026057328449" />
+        </attvalues>
+      </edge>
+      <edge source="MASEK" target="ERSIL" id="8">
+        <attvalues>
+          <attvalue for="3" value="32.434340568515054" />
+        </attvalues>
+      </edge>
+      <edge source="MASEK" target="SOPOX" id="9">
+        <attvalues>
+          <attvalue for="3" value="6.413184019965197" />
+        </attvalues>
+      </edge>
+      <edge source="ROBEL" target="LASTO" id="10">
+        <attvalues>
+          <attvalue for="3" value="29.054876983846206" />
+        </attvalues>
+      </edge>
+      <edge source="ROBEL" target="ESOBU" id="11">
+        <attvalues>
+          <attvalue for="3" value="21.064456244094956" />
+        </attvalues>
+      </edge>
+      <edge source="ROBEL" target="TAMEB" id="12">
+        <attvalues>
+          <attvalue for="3" value="12.41179950193786" />
+        </attvalues>
+      </edge>
+      <edge source="LASTO" target="SOPLA" id="13">
+        <attvalues>
+          <attvalue for="3" value="18.879069481886308" />
+        </attvalues>
+      </edge>
+      <edge source="SOPLA" target="NOTGO" id="14">
+        <attvalues>
+          <attvalue for="3" value="15.326058418605557" />
+        </attvalues>
+      </edge>
+      <edge source="SOPLA" target="OSKAT" id="15">
+        <attvalues>
+          <attvalue for="3" value="17.65570178015662" />
+        </attvalues>
+      </edge>
+      <edge source="NOTGO" target="SULED" id="16">
+        <attvalues>
+          <attvalue for="3" value="11.054858378574957" />
+        </attvalues>
+      </edge>
+      <edge source="SULED" target="TALEG" id="17">
+        <attvalues>
+          <attvalue for="3" value="15.26094513779477" />
+        </attvalues>
+      </edge>
+      <edge source="SULED" target="TADUV" id="18">
+        <attvalues>
+          <attvalue for="3" value="20.040053477274537" />
+        </attvalues>
+      </edge>
+      <edge source="TALEG" target="EKPEK" id="19">
+        <attvalues>
+          <attvalue for="3" value="27.59340160112206" />
+        </attvalues>
+      </edge>
+      <edge source="EKPEK" target="BESIP" id="20">
+        <attvalues>
+          <attvalue for="3" value="6.441772736331777" />
+        </attvalues>
+      </edge>
+      <edge source="EKPEK" target="RIVSA" id="21">
+        <attvalues>
+          <attvalue for="3" value="8.823019883904538" />
+        </attvalues>
+      </edge>
+      <edge source="BESIP" target="RIKLU" id="22">
+        <attvalues>
+          <attvalue for="3" value="12.33175578200749" />
+        </attvalues>
+      </edge>
+      <edge source="BESIP" target="PIKIB" id="23">
+        <attvalues>
+          <attvalue for="3" value="8.841428679516982" />
+        </attvalues>
+      </edge>
+      <edge source="RIKLU" target="HDO" id="24">
+        <attvalues>
+          <attvalue for="3" value="21.108174186267732" />
+        </attvalues>
+      </edge>
+      <edge source="RIKLU" target="ESLOR" id="25">
+        <attvalues>
+          <attvalue for="3" value="16.0976131603175" />
+        </attvalues>
+      </edge>
+      <edge source="RIKLU" target="OMELO" id="26">
+        <attvalues>
+          <attvalue for="3" value="9.11301489425693" />
+        </attvalues>
+      </edge>
+      <edge source="HDO" target="OKX" id="27">
+        <attvalues>
+          <attvalue for="3" value="25.14474891694197" />
+        </attvalues>
+      </edge>
+      <edge source="HDO" target="RAVKU" id="28">
+        <attvalues>
+          <attvalue for="3" value="9.93699885015841" />
+        </attvalues>
+      </edge>
+      <edge source="HDO" target="KOMUR" id="29">
+        <attvalues>
+          <attvalue for="3" value="23.40511501861523" />
+        </attvalues>
+      </edge>
+      <edge source="HDO" target="LEMBI" id="30">
+        <attvalues>
+          <attvalue for="3" value="29.868967357850575" />
+        </attvalues>
+      </edge>
+      <edge source="HDO" target="LAGAR" id="31">
+        <attvalues>
+          <attvalue for="3" value="38.664514436125195" />
+        </attvalues>
+      </edge>
+      <edge source="OKX" target="TOMTI" id="32">
+        <attvalues>
+          <attvalue for="3" value="10.34218435587874" />
+        </attvalues>
+      </edge>
+      <edge source="TOMTI" target="VAMPU" id="33">
+        <attvalues>
+          <attvalue for="3" value="153.58269934198154" />
+        </attvalues>
+      </edge>
+      <edge source="TOMTI" target="DIMEX" id="34">
+        <attvalues>
+          <attvalue for="3" value="51.36281538971614" />
+        </attvalues>
+      </edge>
+      <edge source="VAMPU" target="POLON" id="35">
+        <attvalues>
+          <attvalue for="3" value="20.097969790565553" />
+        </attvalues>
+      </edge>
+      <edge source="POLON" target="OMAVA" id="36">
+        <attvalues>
+          <attvalue for="3" value="79.80102761324345" />
+        </attvalues>
+      </edge>
+      <edge source="POLON" target="SOMOX" id="37">
+        <attvalues>
+          <attvalue for="3" value="105.74636392103201" />
+        </attvalues>
+      </edge>
+      <edge source="POLON" target="NAKER" id="38">
+        <attvalues>
+          <attvalue for="3" value="73.95404472565177" />
+        </attvalues>
+      </edge>
+      <edge source="OMAVA" target="VENES" id="39">
+        <attvalues>
+          <attvalue for="3" value="16.399573086743644" />
+        </attvalues>
+      </edge>
+      <edge source="OMAVA" target="USTIL" id="40">
+        <attvalues>
+          <attvalue for="3" value="96.73787042037267" />
+        </attvalues>
+      </edge>
+      <edge source="OMAVA" target="SUMAM" id="41">
+        <attvalues>
+          <attvalue for="3" value="18.949538766967752" />
+        </attvalues>
+      </edge>
+      <edge source="VENES" target="NATEV" id="42">
+        <attvalues>
+          <attvalue for="3" value="19.4809302828083" />
+        </attvalues>
+      </edge>
+      <edge source="NATEV" target="ROLKA" id="43">
+        <attvalues>
+          <attvalue for="3" value="68.90128064711023" />
+        </attvalues>
+      </edge>
+      <edge source="LAPVA" target="KEDUB" id="44">
+        <attvalues>
+          <attvalue for="3" value="67.36281665518787" />
+        </attvalues>
+      </edge>
+      <edge source="LAPVA" target="*SLV" id="45">
+        <attvalues>
+          <attvalue for="3" value="37.33567527686611" />
+        </attvalues>
+      </edge>
+      <edge source="*SLV" target="KEDUB" id="46">
+        <attvalues>
+          <attvalue for="3" value="36.18144037214089" />
+        </attvalues>
+      </edge>
+      <edge source="SOMOX" target="TOLPA" id="47">
+        <attvalues>
+          <attvalue for="3" value="46.147014691766024" />
+        </attvalues>
+      </edge>
+      <edge source="SOMOX" target="USTIL" id="48">
+        <attvalues>
+          <attvalue for="3" value="73.11711759652987" />
+        </attvalues>
+      </edge>
+      <edge source="TOLPA" target="OKROT" id="49">
+        <attvalues>
+          <attvalue for="3" value="144.38784966735363" />
+        </attvalues>
+      </edge>
+      <edge source="OKROT" target="LAPVA" id="50">
+        <attvalues>
+          <attvalue for="3" value="53.38671107144845" />
+        </attvalues>
+      </edge>
+      <edge source="ADBAN" target="PEPIL" id="51">
+        <attvalues>
+          <attvalue for="3" value="11.992536897224717" />
+        </attvalues>
+      </edge>
+      <edge source="PEPIL" target="SORON" id="52">
+        <attvalues>
+          <attvalue for="3" value="83.3605461920959" />
+        </attvalues>
+      </edge>
+      <edge source="BIBTA" target="ETOLU" id="53">
+        <attvalues>
+          <attvalue for="3" value="15.903265772252416" />
+        </attvalues>
+      </edge>
+      <edge source="ETOLU" target="OSBIT" id="54">
+        <attvalues>
+          <attvalue for="3" value="20.167612339353717" />
+        </attvalues>
+      </edge>
+      <edge source="ETOLU" target="RITUP" id="55">
+        <attvalues>
+          <attvalue for="3" value="28.506268189345874" />
+        </attvalues>
+      </edge>
+      <edge source="OSBIT" target="RASPU" id="56">
+        <attvalues>
+          <attvalue for="3" value="12.16135989368339" />
+        </attvalues>
+      </edge>
+      <edge source="OSBIT" target="BARSU" id="57">
+        <attvalues>
+          <attvalue for="3" value="25.041672592481326" />
+        </attvalues>
+      </edge>
+      <edge source="OSBIT" target="TUSOS" id="58">
+        <attvalues>
+          <attvalue for="3" value="22.965852985520257" />
+        </attvalues>
+      </edge>
+      <edge source="RASPU" target="KOMIB" id="59">
+        <attvalues>
+          <attvalue for="3" value="5.5555020764577305" />
+        </attvalues>
+      </edge>
+      <edge source="RASPU" target="BOREP" id="60">
+        <attvalues>
+          <attvalue for="3" value="21.40002025097922" />
+        </attvalues>
+      </edge>
+      <edge source="RASPU" target="GUDOM" id="61">
+        <attvalues>
+          <attvalue for="3" value="13.835694024390005" />
+        </attvalues>
+      </edge>
+      <edge source="KOMIB" target="SULUS" id="62">
+        <attvalues>
+          <attvalue for="3" value="18.731932830929285" />
+        </attvalues>
+      </edge>
+      <edge source="SULUS" target="LONLI" id="63">
+        <attvalues>
+          <attvalue for="3" value="19.170172708899628" />
+        </attvalues>
+      </edge>
+      <edge source="SULUS" target="TONSU" id="64">
+        <attvalues>
+          <attvalue for="3" value="20.190142883416225" />
+        </attvalues>
+      </edge>
+      <edge source="LONLI" target="KULOK" id="65">
+        <attvalues>
+          <attvalue for="3" value="15.574588156708815" />
+        </attvalues>
+      </edge>
+      <edge source="LONLI" target="ANELA" id="66">
+        <attvalues>
+          <attvalue for="3" value="18.36248616819831" />
+        </attvalues>
+      </edge>
+      <edge source="LONLI" target="BAROB" id="67">
+        <attvalues>
+          <attvalue for="3" value="16.647234735784306" />
+        </attvalues>
+      </edge>
+      <edge source="KULOK" target="ABERU" id="68">
+        <attvalues>
+          <attvalue for="3" value="17.84571784045594" />
+        </attvalues>
+      </edge>
+      <edge source="KULOK" target="ERETO" id="69">
+        <attvalues>
+          <attvalue for="3" value="12.078652754887568" />
+        </attvalues>
+      </edge>
+      <edge source="KULOK" target="BAROB" id="70">
+        <attvalues>
+          <attvalue for="3" value="6.957052818804459" />
+        </attvalues>
+      </edge>
+      <edge source="ABERU" target="OKG" id="71">
+        <attvalues>
+          <attvalue for="3" value="12.035073979683068" />
+        </attvalues>
+      </edge>
+      <edge source="OKG" target="DONAD" id="72">
+        <attvalues>
+          <attvalue for="3" value="22.914946794919686" />
+        </attvalues>
+      </edge>
+      <edge source="OKG" target="ELMEK" id="73">
+        <attvalues>
+          <attvalue for="3" value="63.444972752204336" />
+        </attvalues>
+      </edge>
+      <edge source="OKG" target="KONAR" id="74">
+        <attvalues>
+          <attvalue for="3" value="34.08665211366245" />
+        </attvalues>
+      </edge>
+      <edge source="DONAD" target="DOPOV" id="75">
+        <attvalues>
+          <attvalue for="3" value="4.816041355443357" />
+        </attvalues>
+      </edge>
+      <edge source="DONAD" target="ELMEK" id="76">
+        <attvalues>
+          <attvalue for="3" value="41.15194997652673" />
+        </attvalues>
+      </edge>
+      <edge source="DOPOV" target="RAK" id="77">
+        <attvalues>
+          <attvalue for="3" value="21.81835401941343" />
+        </attvalues>
+      </edge>
+      <edge source="RAK" target="LETNA" id="78">
+        <attvalues>
+          <attvalue for="3" value="28.172681721956373" />
+        </attvalues>
+      </edge>
+      <edge source="RAK" target="DOKEL" id="79">
+        <attvalues>
+          <attvalue for="3" value="53.79024043463727" />
+        </attvalues>
+      </edge>
+      <edge source="RAK" target="ELPON" id="80">
+        <attvalues>
+          <attvalue for="3" value="37.20489585874686" />
+        </attvalues>
+      </edge>
+      <edge source="LETNA" target="BEKVI" id="81">
+        <attvalues>
+          <attvalue for="3" value="11.611947015791996" />
+        </attvalues>
+      </edge>
+      <edge source="LETNA" target="DOKEL" id="82">
+        <attvalues>
+          <attvalue for="3" value="35.6231480392398" />
+        </attvalues>
+      </edge>
+      <edge source="BEKVI" target="PEMUR" id="83">
+        <attvalues>
+          <attvalue for="3" value="31.474108948358083" />
+        </attvalues>
+      </edge>
+      <edge source="BEKVI" target="TIPRU" id="84">
+        <attvalues>
+          <attvalue for="3" value="14.139918207541573" />
+        </attvalues>
+      </edge>
+      <edge source="PEMUR" target="DOBIL" id="85">
+        <attvalues>
+          <attvalue for="3" value="15.420536261562493" />
+        </attvalues>
+      </edge>
+      <edge source="PEMUR" target="HLV" id="86">
+        <attvalues>
+          <attvalue for="3" value="88.91164387737557" />
+        </attvalues>
+      </edge>
+      <edge source="DOBIL" target="ETUDA" id="87">
+        <attvalues>
+          <attvalue for="3" value="22.027850046571228" />
+        </attvalues>
+      </edge>
+      <edge source="ETUDA" target="SOPAV" id="88">
+        <attvalues>
+          <attvalue for="3" value="59.87608272623209" />
+        </attvalues>
+      </edge>
+      <edge source="SOPAV" target="PADKA" id="89">
+        <attvalues>
+          <attvalue for="3" value="8.92302112131513" />
+        </attvalues>
+      </edge>
+      <edge source="SOPAV" target="VAKNU" id="90">
+        <attvalues>
+          <attvalue for="3" value="53.32848524431743" />
+        </attvalues>
+      </edge>
+      <edge source="PADKA" target="USALO" id="91">
+        <attvalues>
+          <attvalue for="3" value="30.198091764310607" />
+        </attvalues>
+      </edge>
+      <edge source="USALO" target="SKAVI" id="92">
+        <attvalues>
+          <attvalue for="3" value="32.27595355566076" />
+        </attvalues>
+      </edge>
+      <edge source="SKAVI" target="GEVNA" id="93">
+        <attvalues>
+          <attvalue for="3" value="31.871401426048088" />
+        </attvalues>
+      </edge>
+      <edge source="GEVNA" target="LUXAR" id="94">
+        <attvalues>
+          <attvalue for="3" value="17.415371151495663" />
+        </attvalues>
+      </edge>
+      <edge source="LUXAR" target="DIBED" id="95">
+        <attvalues>
+          <attvalue for="3" value="72.85150877483152" />
+        </attvalues>
+      </edge>
+      <edge source="DIBED" target="ADBAN" id="96">
+        <attvalues>
+          <attvalue for="3" value="90.46308493622396" />
+        </attvalues>
+      </edge>
+      <edge source="DIBED" target="GORKU" id="97">
+        <attvalues>
+          <attvalue for="3" value="79.9553721259294" />
+        </attvalues>
+      </edge>
+      <edge source="SORON" target="*SLV" id="98">
+        <attvalues>
+          <attvalue for="3" value="71.16299531509482" />
+        </attvalues>
+      </edge>
+      <edge source="RIVSA" target="DRN" id="99">
+        <attvalues>
+          <attvalue for="3" value="10.392322608033398" />
+        </attvalues>
+      </edge>
+      <edge source="DRN" target="RIKLU" id="100">
+        <attvalues>
+          <attvalue for="3" value="9.49104304908908" />
+        </attvalues>
+      </edge>
+      <edge source="DRN" target="PIKIB" id="101">
+        <attvalues>
+          <attvalue for="3" value="8.44077601474758" />
+        </attvalues>
+      </edge>
+      <edge source="DRN" target="BESIP" id="102">
+        <attvalues>
+          <attvalue for="3" value="6.455917630449033" />
+        </attvalues>
+      </edge>
+      <edge source="DRN" target="LASIS" id="103">
+        <attvalues>
+          <attvalue for="3" value="56.386096798411295" />
+        </attvalues>
+      </edge>
+      <edge source="DOBUR" target="PEPOL" id="104">
+        <attvalues>
+          <attvalue for="3" value="26.274831971169547" />
+        </attvalues>
+      </edge>
+      <edge source="DOBUR" target="KOBUS" id="105">
+        <attvalues>
+          <attvalue for="3" value="28.96258535653395" />
+        </attvalues>
+      </edge>
+      <edge source="PEPOL" target="OBANI" id="106">
+        <attvalues>
+          <attvalue for="3" value="17.0614209525988" />
+        </attvalues>
+      </edge>
+      <edge source="ERSIL" target="MAXOT" id="107">
+        <attvalues>
+          <attvalue for="3" value="14.250736731202146" />
+        </attvalues>
+      </edge>
+      <edge source="MAXOT" target="ESOBU" id="108">
+        <attvalues>
+          <attvalue for="3" value="5.253641974175486" />
+        </attvalues>
+      </edge>
+      <edge source="ESOBU" target="MITRU" id="109">
+        <attvalues>
+          <attvalue for="3" value="16.538296336578306" />
+        </attvalues>
+      </edge>
+      <edge source="ESOBU" target="KENIG" id="110">
+        <attvalues>
+          <attvalue for="3" value="32.32152539835478" />
+        </attvalues>
+      </edge>
+      <edge source="MITRU" target="IXUVU" id="111">
+        <attvalues>
+          <attvalue for="3" value="4.513952784050409" />
+        </attvalues>
+      </edge>
+      <edge source="MITRU" target="LASTO" id="112">
+        <attvalues>
+          <attvalue for="3" value="10.09346940648929" />
+        </attvalues>
+      </edge>
+      <edge source="IXUVU" target="GALMA" id="113">
+        <attvalues>
+          <attvalue for="3" value="8.050268413315504" />
+        </attvalues>
+      </edge>
+      <edge source="IXUVU" target="SUVUT" id="114">
+        <attvalues>
+          <attvalue for="3" value="7.341601284872665" />
+        </attvalues>
+      </edge>
+      <edge source="GALMA" target="DESAR" id="115">
+        <attvalues>
+          <attvalue for="3" value="26.45069555958972" />
+        </attvalues>
+      </edge>
+      <edge source="GALMA" target="SUVUT" id="116">
+        <attvalues>
+          <attvalue for="3" value="6.332667010864305" />
+        </attvalues>
+      </edge>
+      <edge source="GALMA" target="OSKAT" id="117">
+        <attvalues>
+          <attvalue for="3" value="19.437966479573745" />
+        </attvalues>
+      </edge>
+      <edge source="DESAR" target="LORBO" id="118">
+        <attvalues>
+          <attvalue for="3" value="6.7312795980619775" />
+        </attvalues>
+      </edge>
+      <edge source="DESAR" target="TADUV" id="119">
+        <attvalues>
+          <attvalue for="3" value="22.695309742759196" />
+        </attvalues>
+      </edge>
+      <edge source="LORBO" target="MOSEX" id="120">
+        <attvalues>
+          <attvalue for="3" value="31.600935039876656" />
+        </attvalues>
+      </edge>
+      <edge source="MOSEX" target="BOLBO" id="121">
+        <attvalues>
+          <attvalue for="3" value="10.025851648088015" />
+        </attvalues>
+      </edge>
+      <edge source="MOSEX" target="PEPOL" id="122">
+        <attvalues>
+          <attvalue for="3" value="29.08095847976591" />
+        </attvalues>
+      </edge>
+      <edge source="BOLBO" target="DOBUR" id="123">
+        <attvalues>
+          <attvalue for="3" value="15.405626255547146" />
+        </attvalues>
+      </edge>
+      <edge source="OBANI" target="SUBIX" id="124">
+        <attvalues>
+          <attvalue for="3" value="19.45643443949518" />
+        </attvalues>
+      </edge>
+      <edge source="SUBIX" target="KELOD" id="125">
+        <attvalues>
+          <attvalue for="3" value="48.439568533508435" />
+        </attvalues>
+      </edge>
+      <edge source="KELOD" target="ADVAB" id="126">
+        <attvalues>
+          <attvalue for="3" value="31.68012023941729" />
+        </attvalues>
+      </edge>
+      <edge source="ADVAB" target="INDIG" id="127">
+        <attvalues>
+          <attvalue for="3" value="47.66295906295977" />
+        </attvalues>
+      </edge>
+      <edge source="INDIG" target="VAMPU" id="128">
+        <attvalues>
+          <attvalue for="3" value="42.38285674812471" />
+        </attvalues>
+      </edge>
+      <edge source="KOBUS" target="LASIS" id="129">
+        <attvalues>
+          <attvalue for="3" value="27.287083587804567" />
+        </attvalues>
+      </edge>
+      <edge source="LASIS" target="VELAB" id="130">
+        <attvalues>
+          <attvalue for="3" value="66.99411484852655" />
+        </attvalues>
+      </edge>
+      <edge source="LASIS" target="SABAB" id="131">
+        <attvalues>
+          <attvalue for="3" value="117.18007528016612" />
+        </attvalues>
+      </edge>
+      <edge source="VELAB" target="MISKA" id="132">
+        <attvalues>
+          <attvalue for="3" value="18.411624340988634" />
+        </attvalues>
+      </edge>
+      <edge source="MISKA" target="OKENO" id="133">
+        <attvalues>
+          <attvalue for="3" value="66.32164436103145" />
+        </attvalues>
+      </edge>
+      <edge source="OKENO" target="POLON" id="134">
+        <attvalues>
+          <attvalue for="3" value="41.88752231460487" />
+        </attvalues>
+      </edge>
+      <edge source="VAKNU" target="KOTEK" id="135">
+        <attvalues>
+          <attvalue for="3" value="43.253303589669144" />
+        </attvalues>
+      </edge>
+      <edge source="KOTEK" target="DIBED" id="136">
+        <attvalues>
+          <attvalue for="3" value="116.96446486203234" />
+        </attvalues>
+      </edge>
+      <edge source="HLV" target="TUSIN" id="137">
+        <attvalues>
+          <attvalue for="3" value="51.432516804228065" />
+        </attvalues>
+      </edge>
+      <edge source="TUSIN" target="USALO" id="138">
+        <attvalues>
+          <attvalue for="3" value="19.82619179767856" />
+        </attvalues>
+      </edge>
+      <edge source="TAMEB" target="BAMKI" id="139">
+        <attvalues>
+          <attvalue for="3" value="12.269791072384395" />
+        </attvalues>
+      </edge>
+      <edge source="TAMEB" target="NENAN" id="140">
+        <attvalues>
+          <attvalue for="3" value="15.598152836372078" />
+        </attvalues>
+      </edge>
+      <edge source="BAMKI" target="NARUS" id="141">
+        <attvalues>
+          <attvalue for="3" value="6.825726705128718" />
+        </attvalues>
+      </edge>
+      <edge source="NARUS" target="TABAT" id="142">
+        <attvalues>
+          <attvalue for="3" value="14.86355112676066" />
+        </attvalues>
+      </edge>
+      <edge source="TABAT" target="SODRO" id="143">
+        <attvalues>
+          <attvalue for="3" value="12.623735932715704" />
+        </attvalues>
+      </edge>
+      <edge source="TABAT" target="ALOSO" id="144">
+        <attvalues>
+          <attvalue for="3" value="11.043666098856656" />
+        </attvalues>
+      </edge>
+      <edge source="SODRO" target="PEROX" id="145">
+        <attvalues>
+          <attvalue for="3" value="15.962460288172785" />
+        </attvalues>
+      </edge>
+      <edge source="SODRO" target="URONA" id="146">
+        <attvalues>
+          <attvalue for="3" value="14.185456708727171" />
+        </attvalues>
+      </edge>
+      <edge source="PEROX" target="SOPGA" id="147">
+        <attvalues>
+          <attvalue for="3" value="22.328761497010394" />
+        </attvalues>
+      </edge>
+      <edge source="SOPGA" target="DONAD" id="148">
+        <attvalues>
+          <attvalue for="3" value="12.271933520273828" />
+        </attvalues>
+      </edge>
+      <edge source="NENAN" target="ERF" id="149">
+        <attvalues>
+          <attvalue for="3" value="7.429419149723774" />
+        </attvalues>
+      </edge>
+      <edge source="NENAN" target="BAMKI" id="150">
+        <attvalues>
+          <attvalue for="3" value="8.777300095364444" />
+        </attvalues>
+      </edge>
+      <edge source="ERF" target="WEMAR" id="151">
+        <attvalues>
+          <attvalue for="3" value="2.019042102928312" />
+        </attvalues>
+      </edge>
+      <edge source="WEMAR" target="GALMA" id="152">
+        <attvalues>
+          <attvalue for="3" value="26.01946445594687" />
+        </attvalues>
+      </edge>
+      <edge source="ALOSO" target="GOLAT" id="153">
+        <attvalues>
+          <attvalue for="3" value="15.215652506174784" />
+        </attvalues>
+      </edge>
+      <edge source="ALOSO" target="SODRO" id="154">
+        <attvalues>
+          <attvalue for="3" value="15.342171897667155" />
+        </attvalues>
+      </edge>
+      <edge source="GOLAT" target="SULED" id="155">
+        <attvalues>
+          <attvalue for="3" value="18.60889588794984" />
+        </attvalues>
+      </edge>
+      <edge source="URONA" target="ABERU" id="156">
+        <attvalues>
+          <attvalue for="3" value="11.67089808093038" />
+        </attvalues>
+      </edge>
+      <edge source="ELMEK" target="VLM" id="157">
+        <attvalues>
+          <attvalue for="3" value="41.922367281759584" />
+        </attvalues>
+      </edge>
+      <edge source="ELMEK" target="BNO" id="158">
+        <attvalues>
+          <attvalue for="3" value="113.1966112217171" />
+        </attvalues>
+      </edge>
+      <edge source="VLM" target="OSNEK" id="159">
+        <attvalues>
+          <attvalue for="3" value="25.00957394561976" />
+        </attvalues>
+      </edge>
+      <edge source="OSNEK" target="BODAL" id="160">
+        <attvalues>
+          <attvalue for="3" value="6.369796161038266" />
+        </attvalues>
+      </edge>
+      <edge source="BODAL" target="TBV" id="161">
+        <attvalues>
+          <attvalue for="3" value="40.13707875055696" />
+        </attvalues>
+      </edge>
+      <edge source="BODAL" target="BNO" id="162">
+        <attvalues>
+          <attvalue for="3" value="40.29921440791738" />
+        </attvalues>
+      </edge>
+      <edge source="TBV" target="SOPAV" id="163">
+        <attvalues>
+          <attvalue for="3" value="53.77623030339214" />
+        </attvalues>
+      </edge>
+      <edge source="BNO" target="HLV" id="164">
+        <attvalues>
+          <attvalue for="3" value="34.36967233813561" />
+        </attvalues>
+      </edge>
+      <edge source="ESATI" target="LOHRE" id="165">
+        <attvalues>
+          <attvalue for="3" value="11.425520186460124" />
+        </attvalues>
+      </edge>
+      <edge source="LOHRE" target="OSBIT" id="166">
+        <attvalues>
+          <attvalue for="3" value="11.434484073661865" />
+        </attvalues>
+      </edge>
+      <edge source="EKSOS" target="ANELA" id="167">
+        <attvalues>
+          <attvalue for="3" value="9.889414315114768" />
+        </attvalues>
+      </edge>
+      <edge source="ANELA" target="KEPOM" id="168">
+        <attvalues>
+          <attvalue for="3" value="6.5624756733916865" />
+        </attvalues>
+      </edge>
+      <edge source="BARSU" target="EKSOS" id="169">
+        <attvalues>
+          <attvalue for="3" value="42.60575781799583" />
+        </attvalues>
+      </edge>
+      <edge source="BARSU" target="KOMIB" id="170">
+        <attvalues>
+          <attvalue for="3" value="10.722147303489736" />
+        </attvalues>
+      </edge>
+      <edge source="KEPOM" target="NIBIL" id="171">
+        <attvalues>
+          <attvalue for="3" value="6.731482109466773" />
+        </attvalues>
+      </edge>
+      <edge source="NIBIL" target="NOGRA" id="172">
+        <attvalues>
+          <attvalue for="3" value="5.467557304484465" />
+        </attvalues>
+      </edge>
+      <edge source="NOGRA" target="RONIG" id="173">
+        <attvalues>
+          <attvalue for="3" value="10.630986634261179" />
+        </attvalues>
+      </edge>
+      <edge source="RONIG" target="OKG" id="174">
+        <attvalues>
+          <attvalue for="3" value="19.61661025478506" />
+        </attvalues>
+      </edge>
+      <edge source="BAMAS" target="LONLI" id="175">
+        <attvalues>
+          <attvalue for="3" value="13.611983052978633" />
+        </attvalues>
+      </edge>
+      <edge source="BAMAS" target="KEPOM" id="176">
+        <attvalues>
+          <attvalue for="3" value="13.742433666800602" />
+        </attvalues>
+      </edge>
+      <edge source="BOREP" target="BAMAS" id="177">
+        <attvalues>
+          <attvalue for="3" value="16.961790681657995" />
+        </attvalues>
+      </edge>
+      <edge source="TONSU" target="ERETO" id="178">
+        <attvalues>
+          <attvalue for="3" value="7.421869468440669" />
+        </attvalues>
+      </edge>
+      <edge source="ERETO" target="NOGRA" id="179">
+        <attvalues>
+          <attvalue for="3" value="10.782003853188922" />
+        </attvalues>
+      </edge>
+      <edge source="ERETO" target="ANELA" id="180">
+        <attvalues>
+          <attvalue for="3" value="12.057877189598138" />
+        </attvalues>
+      </edge>
+      <edge source="GORKO" target="KOMIB" id="181">
+        <attvalues>
+          <attvalue for="3" value="12.975626575573369" />
+        </attvalues>
+      </edge>
+      <edge source="GORKO" target="BOKNI" id="182">
+        <attvalues>
+          <attvalue for="3" value="8.475363817890436" />
+        </attvalues>
+      </edge>
+      <edge source="GUDOM" target="GORKO" id="183">
+        <attvalues>
+          <attvalue for="3" value="3.561018611882475" />
+        </attvalues>
+      </edge>
+      <edge source="BOKNI" target="KODUK" id="184">
+        <attvalues>
+          <attvalue for="3" value="15.408215724666055" />
+        </attvalues>
+      </edge>
+      <edge source="KODUK" target="LONLI" id="185">
+        <attvalues>
+          <attvalue for="3" value="13.197675756213721" />
+        </attvalues>
+      </edge>
+      <edge source="SOPOX" target="ERDOK" id="186">
+        <attvalues>
+          <attvalue for="3" value="24.128861756458086" />
+        </attvalues>
+      </edge>
+      <edge source="ERDOK" target="MAGES" id="187">
+        <attvalues>
+          <attvalue for="3" value="3.0551615228646805" />
+        </attvalues>
+      </edge>
+      <edge source="MAGES" target="ROBEL" id="188">
+        <attvalues>
+          <attvalue for="3" value="13.929585900901149" />
+        </attvalues>
+      </edge>
+      <edge source="MAGES" target="GAPLA" id="189">
+        <attvalues>
+          <attvalue for="3" value="13.918880036060932" />
+        </attvalues>
+      </edge>
+      <edge source="TUSOS" target="ADIBA" id="190">
+        <attvalues>
+          <attvalue for="3" value="14.101015415572617" />
+        </attvalues>
+      </edge>
+      <edge source="ADIBA" target="VELIS" id="191">
+        <attvalues>
+          <attvalue for="3" value="5.962888394751925" />
+        </attvalues>
+      </edge>
+      <edge source="VELIS" target="BOKNI" id="192">
+        <attvalues>
+          <attvalue for="3" value="9.259035360960558" />
+        </attvalues>
+      </edge>
+      <edge source="NUDRO" target="SABAB" id="193">
+        <attvalues>
+          <attvalue for="3" value="32.13778845881627" />
+        </attvalues>
+      </edge>
+      <edge source="SABAB" target="SUDOL" id="194">
+        <attvalues>
+          <attvalue for="3" value="20.711128644606358" />
+        </attvalues>
+      </edge>
+      <edge source="OSKAT" target="TADUV" id="195">
+        <attvalues>
+          <attvalue for="3" value="21.683159626873238" />
+        </attvalues>
+      </edge>
+      <edge source="TADUV" target="BEBEX" id="196">
+        <attvalues>
+          <attvalue for="3" value="24.636956907001547" />
+        </attvalues>
+      </edge>
+      <edge source="TADUV" target="TORPU" id="197">
+        <attvalues>
+          <attvalue for="3" value="29.336527435927646" />
+        </attvalues>
+      </edge>
+      <edge source="BEBEX" target="RENDO" id="198">
+        <attvalues>
+          <attvalue for="3" value="26.308365712477663" />
+        </attvalues>
+      </edge>
+      <edge source="RENDO" target="EKSEK" id="199">
+        <attvalues>
+          <attvalue for="3" value="65.55222459385506" />
+        </attvalues>
+      </edge>
+      <edge source="RENDO" target="ESLOR" id="200">
+        <attvalues>
+          <attvalue for="3" value="16.895182185679268" />
+        </attvalues>
+      </edge>
+      <edge source="EKSEK" target="ULGIL" id="201">
+        <attvalues>
+          <attvalue for="3" value="15.525273245501026" />
+        </attvalues>
+      </edge>
+      <edge source="ULGIL" target="VAGON" id="202">
+        <attvalues>
+          <attvalue for="3" value="43.04886888233353" />
+        </attvalues>
+      </edge>
+      <edge source="VAGON" target="NUDRO" id="203">
+        <attvalues>
+          <attvalue for="3" value="11.681900924490929" />
+        </attvalues>
+      </edge>
+      <edge source="SUDOL" target="LUXAR" id="204">
+        <attvalues>
+          <attvalue for="3" value="114.55034001181923" />
+        </attvalues>
+      </edge>
+      <edge source="SUVUT" target="SOPLA" id="205">
+        <attvalues>
+          <attvalue for="3" value="3.56672964972219" />
+        </attvalues>
+      </edge>
+      <edge source="TORPU" target="RIVSA" id="206">
+        <attvalues>
+          <attvalue for="3" value="6.967114780566442" />
+        </attvalues>
+      </edge>
+      <edge source="TORPU" target="LASIS" id="207">
+        <attvalues>
+          <attvalue for="3" value="67.26142629380456" />
+        </attvalues>
+      </edge>
+      <edge source="PIKIB" target="RIKLU" id="208">
+        <attvalues>
+          <attvalue for="3" value="4.476415293665679" />
+        </attvalues>
+      </edge>
+      <edge source="PIKIB" target="GOLOP" id="209">
+        <attvalues>
+          <attvalue for="3" value="35.132352052063546" />
+        </attvalues>
+      </edge>
+      <edge source="PIKIB" target="OMELO" id="210">
+        <attvalues>
+          <attvalue for="3" value="11.544792797526867" />
+        </attvalues>
+      </edge>
+      <edge source="GOLOP" target="ARTUP" id="211">
+        <attvalues>
+          <attvalue for="3" value="16.68612902908632" />
+        </attvalues>
+      </edge>
+      <edge source="ARTUP" target="LAGAR" id="212">
+        <attvalues>
+          <attvalue for="3" value="18.763231465193574" />
+        </attvalues>
+      </edge>
+      <edge source="ARTUP" target="TOMTI" id="213">
+        <attvalues>
+          <attvalue for="3" value="21.8050720266425" />
+        </attvalues>
+      </edge>
+      <edge source="LAGAR" target="MISKA" id="214">
+        <attvalues>
+          <attvalue for="3" value="63.700348908360986" />
+        </attvalues>
+      </edge>
+      <edge source="OMELO" target="KOMUR" id="215">
+        <attvalues>
+          <attvalue for="3" value="27.597121407583995" />
+        </attvalues>
+      </edge>
+      <edge source="KOMUR" target="ARTUP" id="216">
+        <attvalues>
+          <attvalue for="3" value="14.361994789358757" />
+        </attvalues>
+      </edge>
+      <edge source="KOMUR" target="KOPIT" id="217">
+        <attvalues>
+          <attvalue for="3" value="31.480686369653725" />
+        </attvalues>
+      </edge>
+      <edge source="KOPIT" target="PEMUR" id="218">
+        <attvalues>
+          <attvalue for="3" value="16.692927493847748" />
+        </attvalues>
+      </edge>
+      <edge source="RAVKU" target="ASTEL" id="219">
+        <attvalues>
+          <attvalue for="3" value="17.389976097690976" />
+        </attvalues>
+      </edge>
+      <edge source="RAVKU" target="ODLIV" id="220">
+        <attvalues>
+          <attvalue for="3" value="5.959208516371361" />
+        </attvalues>
+      </edge>
+      <edge source="ASTEL" target="OKX" id="221">
+        <attvalues>
+          <attvalue for="3" value="6.888000904880133" />
+        </attvalues>
+      </edge>
+      <edge source="LEMBI" target="DOKEL" id="222">
+        <attvalues>
+          <attvalue for="3" value="5.121270677297716" />
+        </attvalues>
+      </edge>
+      <edge source="LEMBI" target="BULEK" id="223">
+        <attvalues>
+          <attvalue for="3" value="10.840260032453811" />
+        </attvalues>
+      </edge>
+      <edge source="DOKEL" target="LAGAR" id="224">
+        <attvalues>
+          <attvalue for="3" value="23.029804220975542" />
+        </attvalues>
+      </edge>
+      <edge source="DOKEL" target="ARTUP" id="225">
+        <attvalues>
+          <attvalue for="3" value="4.679236615632848" />
+        </attvalues>
+      </edge>
+      <edge source="BULEK" target="DOBIL" id="226">
+        <attvalues>
+          <attvalue for="3" value="40.35625454036245" />
+        </attvalues>
+      </edge>
+      <edge source="KONAR" target="GOLOP" id="227">
+        <attvalues>
+          <attvalue for="3" value="55.25228308403215" />
+        </attvalues>
+      </edge>
+      <edge source="KONAR" target="RAVKU" id="228">
+        <attvalues>
+          <attvalue for="3" value="55.42200980890781" />
+        </attvalues>
+      </edge>
+      <edge source="NAKER" target="OMAVA" id="229">
+        <attvalues>
+          <attvalue for="3" value="7.895908147573423" />
+        </attvalues>
+      </edge>
+      <edge source="USTIL" target="VABOD" id="230">
+        <attvalues>
+          <attvalue for="3" value="26.757271091165517" />
+        </attvalues>
+      </edge>
+      <edge source="VABOD" target="DORER" id="231">
+        <attvalues>
+          <attvalue for="3" value="93.58414747199161" />
+        </attvalues>
+      </edge>
+      <edge source="SUMAM" target="SOMOX" id="232">
+        <attvalues>
+          <attvalue for="3" value="17.286287359916926" />
+        </attvalues>
+      </edge>
+      <edge source="GORKU" target="NALAD" id="233">
+        <attvalues>
+          <attvalue for="3" value="55.346062546318926" />
+        </attvalues>
+      </edge>
+      <edge source="NALAD" target="SORON" id="234">
+        <attvalues>
+          <attvalue for="3" value="58.87452171488854" />
+        </attvalues>
+      </edge>
+      <edge source="BAROB" target="NIBIL" id="235">
+        <attvalues>
+          <attvalue for="3" value="7.008437308983798" />
+        </attvalues>
+      </edge>
+      <edge source="ELPON" target="TIPRU" id="236">
+        <attvalues>
+          <attvalue for="3" value="8.289303971998747" />
+        </attvalues>
+      </edge>
+      <edge source="TIPRU" target="VLM" id="237">
+        <attvalues>
+          <attvalue for="3" value="13.596445945850975" />
+        </attvalues>
+      </edge>
+      <edge source="BUSIR" target="HDO" id="238">
+        <attvalues>
+          <attvalue for="3" value="11.663347604849285" />
+        </attvalues>
+      </edge>
+      <edge source="ESLOR" target="BUSIR" id="239">
+        <attvalues>
+          <attvalue for="3" value="6.594963499809462" />
+        </attvalues>
+      </edge>
+      <edge source="ESLOR" target="HDO" id="240">
+        <attvalues>
+          <attvalue for="3" value="10.939603459826785" />
+        </attvalues>
+      </edge>
+      <edge source="ODLIV" target="GOLOP" id="241">
+        <attvalues>
+          <attvalue for="3" value="5.2091233028356045" />
+        </attvalues>
+      </edge>
+      <edge source="ODLIV" target="KOMUR" id="242">
+        <attvalues>
+          <attvalue for="3" value="7.87610960287911" />
+        </attvalues>
+      </edge>
+      <edge source="KENIG" target="GALMA" id="243">
+        <attvalues>
+          <attvalue for="3" value="15.01141429422794" />
+        </attvalues>
+      </edge>
+      <edge source="SWALM" target="FULNO" id="244">
+        <attvalues>
+          <attvalue for="3" value="20.99307180427466" />
+        </attvalues>
+      </edge>
+      <edge source="SWALM" target="MAGES" id="245">
+        <attvalues>
+          <attvalue for="3" value="33.955906308653525" />
+        </attvalues>
+      </edge>
+      <edge source="FULNO" target="ERSET" id="246">
+        <attvalues>
+          <attvalue for="3" value="11.0160522249343" />
+        </attvalues>
+      </edge>
+      <edge source="ERSET" target="ERSIL" id="247">
+        <attvalues>
+          <attvalue for="3" value="13.570660911221646" />
+        </attvalues>
+      </edge>
+      <edge source="ERSET" target="ERDOK" id="248">
+        <attvalues>
+          <attvalue for="3" value="4.626400653571791" />
+        </attvalues>
+      </edge>
+      <edge source="ERSET" target="ROBEL" id="249">
+        <attvalues>
+          <attvalue for="3" value="18.16374721060601" />
+        </attvalues>
+      </edge>
+      <edge source="DIMEX" target="ADVAB" id="250">
+        <attvalues>
+          <attvalue for="3" value="37.32867402173605" />
+        </attvalues>
+      </edge>
+      <edge source="GAPLA" target="ADIBA" id="251">
+        <attvalues>
+          <attvalue for="3" value="7.373157139724533" />
+        </attvalues>
+      </edge>
+      <edge source="RITUP" target="KOMIB" id="252">
+        <attvalues>
+          <attvalue for="3" value="10.743971717264596" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
