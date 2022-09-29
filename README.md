@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/542879252.svg)](https://zenodo.org/badge/latestdoi/542879252)
+
 # roost: Robust Optimization Of Structured Trajectories
 
       
