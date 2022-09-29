@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "González Arribas"
+  given-names: "Daniel"
+  orcid: ""
+- family-names: "Andrés Enderiz"
+  given-names: "Eduardo"
+  orcid: ""
+- family-names: "Simorgh"
+  given-names: "Abolfazl"
+  orcid: ""  
+title: "Research Software"
+version: 0.1.0
+doi: https://doi.org/10.5281/zenodo.7121862
+date-released: 2022-09-29
+url: "https://github.com/Abolfazl-Simorgh/roost"
