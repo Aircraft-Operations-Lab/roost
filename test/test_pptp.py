@@ -1,8 +1,8 @@
 import unittest
 from roost.airspace import *
 from roost.pptp import *
-from roc3.bada4 import BADA4_jet_CR
-from roc3.weather import WeatherStore_4D
+from roost.bada4 import BADA4_jet_CR
+from roost.weather import WeatherStore_4D
 from pathlib import Path
 
 import numpy as np

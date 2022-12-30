@@ -3,7 +3,7 @@
 
 import pandas as pd
 from typing import Sequence
-from roc3.geometry import *
+from roost.geometry import *
 import networkx as nx
 import matplotlib.pyplot as plt
 import networkx.readwrite as rw

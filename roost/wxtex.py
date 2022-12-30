@@ -1,6 +1,6 @@
 import xarray as xr
 import numpy as np
-from mitos.io import CoordinateGenerator, DatasetHandler, get_var_name
+from roost.io import CoordinateGenerator, DatasetHandler, get_var_name
 from .cudatools import *
 import pycuda.driver as drv
 import datetime as dt
@@ -121,7 +121,7 @@ class WeatherCache:
 
     def bind_textures_to_module(self, module):
         from pathlib import Path
-        from roc3.weather import WeatherArrays4D
+        from roost.weather import WeatherArrays4D
 
         for cube_idx, cube in enumerate(self.cubes):
             for member_idx in range(self.n_members):

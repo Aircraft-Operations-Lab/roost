@@ -2,8 +2,8 @@
 
 import xarray as xr
 import itertools
-from mitos.optiflow import MultiFrameInterpolant
-from mitos.utils import *
+from roost.optiflow import MultiFrameInterpolant
+from roost.utils import *
 from math import ceil
 
 

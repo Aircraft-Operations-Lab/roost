@@ -11,7 +11,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(name='roost',
-      version='0.1',
+      version='1.0',
       description='Robust Optimization Of Structured Trajectories',
       license='lgpl-3.0',
       author='Daniel González Arribas, Eduardo Andrés Enderiz, Abolfazl Simorgh, Manuel Soler',
@@ -21,7 +21,7 @@ setup(name='roost',
       install_requires=[
           'networkx',
           'jinja2',
-          'pandas', 'numpy', 'pycuda', 'roc3', 'matplotlib', 'mitos',
+          'pandas', 'numpy', 'pycuda', 'matplotlib',
       ],
       include_package_data=True,
       zip_safe=False,

@@ -3,7 +3,7 @@
 
 import os
 import re
-from roc3.bada4 import BADA4_jet_CR as jet
+from roost.bada4 import BADA4_jet_CR as jet
 from jinja2 import Template, Environment, StrictUndefined, UndefinedError
 from pathlib import Path
 

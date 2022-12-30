@@ -16,7 +16,7 @@ ds = xr.open_dataset("test/samples/data/20_12_2018_main.nc")
 # Filter the dataset to the required variables
 dsc = ds[['t', 'u', 'v', 'z', 'r', 'pv', 'C1', 'C2', 'olr', 'aCCF_CH4']]
 
-# Information of the considered aircraft (notice that the user needs to input s .xml file)
+# Input Aircraft Performance Datasets:
 apm = BADA4_jet_CR('A320-214', full_path='A320-214.xml')
 
 # New coordinates for processing the input meteorological data
@@ -61,7 +61,7 @@ problem_config['tas0'] = 150
 # If yes, the climate impact is considered as an objective in the objective function to be optimized
 problem_config['compute_accf'] = True
 
-# # If yes, the NOx emission is considered as an objective in the objective function to be optimized
+# If yes, the NOx emission is considered as an objective in the objective function to be optimized
 problem_config['compute_emissions'] = True
 
 
@@ -80,10 +80,10 @@ problem_config['CI_co2'] = 1
 # Weights ATR of H2O in the objective function 
 problem_config['CI_h2o'] = 1
 
-# Weights ATR of Contrails in the objective function 
+# Weights ATR of contrails in the objective function
 problem_config['CI_contrail'] = 1
 
-# Weights distance flown in persistent contrails formation areas in the objective function 
+# Weights the distance flown in persistent contrails formation areas in the objective function 
 problem_config['CI_contrail_dis'] = 0
 
 
