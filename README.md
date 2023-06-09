@@ -34,5 +34,3 @@ it will install all the required dependencies.
 
 ## How to use it
 There is a script in the roost (library folder) path, *main_run.py*, which provides a sample to get started with the library. This sample file contains comments explaining the required inputs, problem configurations, objective function selection (which includes flight planning objectives), optimization configurations, running, and output files. Notice that we use BADA4.0 to represent the aerodynamic and propulsive performance of the aircraft. Due to restrictions imposed by the BADA license, the current version in GitHub is incomplete, as three python scripts related to the used aircraft performance model have been excluded (i.e., bada4.py, apm.py, and badalib.cu). We are currently assessing the existing open-source aircraft performance models in order to make the complete library available to the public. 
-
-
