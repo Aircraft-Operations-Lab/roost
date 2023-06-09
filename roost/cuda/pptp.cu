@@ -231,6 +231,7 @@ extern "C" {
         __shared__ float volatile sdata[{{n_scenarios}}];
         int tid = threadIdx.x;  // scenario id
         int i = blockIdx.x; // plan id
+        float avg_J;
 
         sdata[tid] = + {{cost_index}} * ( {{CI_fuel}} * summaries[i][tid][0] + CI * summaries[i][tid][1] );
         {% if perform_descent %}
@@ -257,8 +258,34 @@ extern "C" {
             __syncthreads();
         }
         // write result for this block to global mem
-        if(tid == 0) {
-            rewards[i] = sdata[0] / {{n_scenarios}};
+        avg_J = sdata[0] / {{n_scenarios}};
+        {% if DI_contrails > 0 %} // compute standard deviation of contrails
+            float avg_contrails;
+            float cdiff;
+            sdata[tid] = summaries[i][tid][6];
+            __syncthreads();
+            for(int s=blockDim.x/2; s>0; s>>=1){
+                if(tid < s){
+                    sdata[tid] += sdata[tid+s];
+                }
+                __syncthreads();
+            }
+            avg_contrails = sdata[0] / {{n_scenarios}};
+            cdiff = (summaries[i][tid][6] - avg_contrails);
+            sdata[tid] = cdiff*cdiff;
+            __syncthreads();
+            for(int s=blockDim.x/2; s>0; s>>=1){
+                if(tid < s){
+                    sdata[tid] += sdata[tid+s];
+                }
+                __syncthreads();
+            }
+            if (tid == 0) {
+                avg_J += {{DI_contrails}} * sqrtf(sdata[0] / {{n_scenarios}});
+            }
+        {% endif %}
+        if (tid == 0) {
+            rewards[i] = avg_J;
         }
    }
 
