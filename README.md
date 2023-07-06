@@ -12,7 +12,7 @@ The Python Library roost is a software package developed by UC3M. It is a tool f
 
 **Support:** Support of all general technical questions on roost, i.e., installation, application, and development, will be provided by Daniel González Arribas (dangonza@ing.uc3m.es) and Abolfazl Simorgh (abolfazl.simorgh@uc3m.es). 
 
-**Core developer team:** Daniel González Arribas, Eduardo Andrés Enderiz, Abolfazl Simorgh, Manuel Soler. 
+**Core developer team:** Daniel González Arribas, Abolfazl Simorgh, Eduardo Andrés Enderiz, Manuel Soler. 
 
 Copyright (C) 2022, Universidad Carlos III de Madrid
 
