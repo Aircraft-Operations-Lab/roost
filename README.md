@@ -16,6 +16,22 @@ The Python Library roost is a software package developed by UC3M. It is a tool f
 
 Copyright (C) 2022, Universidad Carlos III de Madrid
 
+## References
+
+If you use **roost** in your research, please cite the following publications:
+
+1. Simorgh, A., Soler, M., González-Arribas, D., Linke, F., Lührs, B., Meuser, M. M., ... & Baumann, S. (2023).  
+
+   *Robust 4D climate-optimal flight planning in structured airspace using parallelized simulation on GPUs: ROOST V1.0*.  
+
+   Geoscientific Model Development, 16(13), 3723–3748.
+
+2. González-Arribas, D., Baneshi, F., Andrés, E., Soler, M., Jardines, A., & García-Heras, J. (2023).  
+
+   *Fast 4D flight planning under uncertainty through parallel stochastic path simulation*.  
+
+   Transportation Research Part C: Emerging Technologies, 148, 104018.
+   
 ## How to run the library
 The installation is the first step to working with roost. In the following, the steps required to install the library are provided.
 
