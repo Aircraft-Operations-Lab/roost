@@ -30,7 +30,7 @@ If you use **roost** in your research, please cite the following publications:
 
    *Fast 4D flight planning under uncertainty through parallel stochastic path simulation*.  
 
-   Transportation Research Part C: Emerging Technologies, 148, 104018.
+   Transportation Research Part C: Emerging Technologies, 148, 104018 (DOI: 10.1016/j.trc.2023.104018).
    
 ## How to run the library
 The installation is the first step to working with roost. In the following, the steps required to install the library are provided.
