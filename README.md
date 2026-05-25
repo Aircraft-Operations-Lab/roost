@@ -24,7 +24,7 @@ If you use **roost** in your research, please cite the following publications:
 
    *Robust 4D climate-optimal flight planning in structured airspace using parallelized simulation on GPUs: ROOST V1.0*.  
 
-   Geoscientific Model Development, 16(13), 3723–3748.
+   Geoscientific Model Development, 16(13), 3723–3748 (DOI). 
 
 2. González-Arribas, D., Baneshi, F., Andrés, E., Soler, M., Jardines, A., & García-Heras, J. (2023).  
 
